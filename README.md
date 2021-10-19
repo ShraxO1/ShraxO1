@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shray Tyagi</h1>
 
 ## 🔭 I’m currently working as a Web Developer at 
-* [Mauka Education | Backend Developer Intern](https://maukaeducation.com/)
+* [Mauka Education | Backend Developer](https://maukaeducation.com/)
 
 ## 🌱 I’m currently learning
 * MERN Stack .
